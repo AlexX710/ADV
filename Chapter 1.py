@@ -13,4 +13,4 @@ else:
     print("Player splashes")
 
 print("Player gets struck by lightning")
-print("Player falls onto ground"f)
+print("Player falls onto ground")
