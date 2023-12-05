@@ -1,5 +1,6 @@
-user_name = input("Choose a name")
-print("Welcome",user_name)
+def chapter_1():
+    user_name = input("Choose a name")
+    print("Welcome",user_name)
 start_game = print("Press space bar to begin")
 print("It was a thunderous rainy night")
 
