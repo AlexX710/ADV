@@ -16,4 +16,3 @@ elif key == "3":
         print("RUN, Cave Monster has woken")
     elif chest == "dont open":
         print("No danger")
-
